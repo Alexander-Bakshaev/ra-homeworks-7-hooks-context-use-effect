@@ -1,5 +1,8 @@
 # Список пользователей
 
+[![Vercel Deploy](https://img.shields.io/github/deployments/Alexander-Bakshaev/ra-homeworks-7-hooks-context-use-effect/production?label=vercel&logo=vercel)](https://vercel.com/your-username/ra-homeworks-7-hooks-context-use-effect)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=flat&logo=vercel)](https://ra-homeworks-7-hooks-context-use-ef.vercel.app)
+
 Приложение для отображения списка пользователей и их детальной информации с использованием React Hooks и Context API.
 
 ## ✨ Особенности
